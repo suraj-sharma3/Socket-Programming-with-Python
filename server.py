@@ -1,3 +1,5 @@
+# Mac - pip3 install socket, To run scripts - python3 server.py & python3 client.py
+
 import socket 
 
 # ipconfig command -> either ethernet adapter address or wireless LAN -> IPv4 address -> either copy this address in host or use the below given code to get this IP address
